@@ -1,0 +1,25 @@
+{
+  "name": "devprofilegen",
+  "version": "1.0.0",
+  "description": "Profile generator for Produce Owners",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0",
+    "pdf-puppeteer": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyrich75/DevProfileGen.git"
+  },
+  "author": "Andrew Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyrich75/DevProfileGen/issues"
+  },
+  "homepage": "https://github.com/andyrich75/DevProfileGen#readme"
+}

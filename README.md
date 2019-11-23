@@ -1,2 +1,2 @@
-# devProfileGen2
-This is a new repo for the profile gen homework as I didn't make the git ignor the modules when pushing. 
+# DevProfileGen
+This is an application to be able to generate a profile of a developer with a few inputs.
